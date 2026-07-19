@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.samsos64_stack.twa",
-        "sha256_cert_fingerprints": ["DD:96:0C:1B:6C:99:9D:7B:A7:64:B7:F9:DB:E0:05:01:9B:0E:91:B5:DC:B7:70:02:EE:C2:E8:B6:27:92:08:F4"]
-      }
-    }]
