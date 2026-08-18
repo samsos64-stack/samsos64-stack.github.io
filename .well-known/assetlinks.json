@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "io.github.samsos64_stack.twa",
       "sha256_cert_fingerprints": [
-        "C7:89:6F:2D:E0:F6:47:69:1D:16:A3:26:93:07:F6:6D:F1:E9:A7:2F:A8:D7:3A:65:64:B1:87:CD:93:BE:36:3B"
+        "C7:89:6F:2D:E0:F6:47:69:1D:16:A3:26:93:07:F6:6D:F1:E9:A7:2F:A8:D7:3A:65:64:B1:87:CD:93:BE:36:3B",
+        "DD:96:0C:1B:6C:99:9D:7B:A7:64:B7:F9:DB:E0:05:01:9B:0E:91:B5:DC:B7:70:02:EE:C2:E8:B6:27:92:08:F4"
       ]
     }
   }
